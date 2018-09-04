@@ -1,0 +1,4 @@
+
+Different types of exceptions: Unchecked and checked....
+Two ways :1. Throw an exception and ctach it
+		  2. By method
